@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Manager",
+  "description": "An intelligent academic productivity platform for university students featuring tasks, exams, schedules, Pomodoro focus, AI study assistant, and collaborative study groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
